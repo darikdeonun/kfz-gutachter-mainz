@@ -1,1 +1,2 @@
-# kfz-gutachter-mainz
+# KFZ Gutachter Mainz
+Für [kfz gutachter mainz](https://www.kfz-gutachter-gourge.de/) fallen Kosten zwischen 80 und 150 Euro an. Für ein Wertermittlungsgutachten oder Wertfeststellungsgutachten, das Sie im Zuge der Hauptuntersuchung (HU) durchführen lassen, stellen Prüforganisationen wie TÜV oder DEKRA 80 bis 100 Euro in Rechnung. Der Kfz-Sachverständige nimmt die Schäden, die an Ihrem Fahrzeug entstanden sind, genau unter die Lupe und erstellt ein Unfallgutachten. Dafür dokumentiert er sämtliche Mängel, die nachweislich auf den Unfall zurückzuführen sind, und schätzt den nötigen Aufwand für eine Reparatur.
